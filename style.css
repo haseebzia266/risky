@@ -283,14 +283,17 @@ nav .logo.space{
 .content .space{
   margin: 10px 0;
 }
+#flex1{
+  width: 1000%;
+}
 .g1{
   position: absolute;
-width: 345px;
+width: 20%;
 height: 189px;
 left: 0px;
 top: 110px;
 display: inline-block;
-background: #E8E8E8;
+background: white;
 border-radius: 0px 8px 8px 0px;
 
 }
